@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /
+
+# Quitar la extensión .php
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php [L]

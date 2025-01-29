@@ -1,0 +1,40 @@
+{
+  "noticias": [
+    {
+      "titulo": "Diputados y Alcaldes Analizan Aumento al Predial en Nuevo León",
+      "descripcion": "Bernardo Sada, de la Cámara de Propietarios de Bienes Raíces (CAPROBI), dijo que hay que redoblar esfuerzos en el ámbito de la recaudación del predial para poder exigir beneficios a los Municipios.",
+      "fecha": "Noviembre 8, 2024",
+      "hora": "10:22 hrs CST"
+    },
+    {
+      "titulo": "Alcalde de Monterrey le Entrará al Quite con Camiones; 150 Unidades y Servicio Gratuito",
+      "descripcion": "Ante la crisis de transporte que vive Nuevo León, el alcalde de Monterrey anuncia un proyecto para mejorar el transporte público con 150 unidades y servicio gratuito.",
+      "fecha": "Noviembre 8, 2024",
+      "hora": "10:22 hrs CST"
+    },
+    {
+      "titulo": "Protestan Padres por Falta de Salones en Zuazua, NL",
+      "descripcion": "Padres de familia se manifiestan por la falta de espacio en escuelas en Zuazua, Nuevo León.",
+      "fecha": "Noviembre 8, 2024",
+      "hora": "10:22 hrs CST"
+    },
+    {
+      "titulo": "Saturan Usuarios Ruta 203 en Santa Catarina, NL",
+      "descripcion": "Usuarios de la Ruta 203 en Santa Catarina se quejan de la saturación de las unidades de transporte público.",
+      "fecha": "Noviembre 8, 2024",
+      "hora": "10:22 hrs CST"
+    },
+    {
+      "titulo": "Por Celos Quema Hombre a su Pareja en Pesquería",
+      "descripcion": "Un hombre es detenido tras prender fuego a su pareja en un ataque de celos en Pesquería.",
+      "fecha": "Noviembre 8, 2024",
+      "hora": "10:22 hrs CST"
+    },
+    {
+      "titulo": "Ahora Tiran Restos Humanos en Montemorelos y otros en los Límites con el Municipio de Linares",
+      "descripcion": "Se reportan restos humanos arrojados en Montemorelos y en la frontera con Linares, lo que genera alarma en la región.",
+      "fecha": "Noviembre 8, 2024",
+      "hora": "10:22 hrs CST"
+    }
+  ]
+}

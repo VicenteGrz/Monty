@@ -1,0 +1,42 @@
+.weather-widget {
+    width: 200px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+}
+
+.weather-widget h3 {
+    margin-top: 0;
+    font-size: 16px;
+}
+
+.weather-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.weather-main img {
+    width: 50px;
+    height: 50px;
+}
+
+.temperature {
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.weather-widget p {
+    margin: 5px 0;
+    font-size: 14px;
+}
+#weather-widget-container {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 1000;
+}
+

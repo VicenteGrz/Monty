@@ -1,0 +1,6009 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-12-31T16:52:56Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/156272673",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2789237,
+              25.7565118
+            ],
+            [
+              -100.2803115,
+              25.7567273
+            ],
+            [
+              -100.2804119,
+              25.7562021
+            ],
+            [
+              -100.2792026,
+              25.7560146
+            ],
+            [
+              -100.2791476,
+              25.7563025
+            ],
+            [
+              -100.278969,
+              25.7562748
+            ],
+            [
+              -100.2789237,
+              25.7565118
+            ]
+          ]
+        ]
+      },
+      "id": "way/156272673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172237546",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.0013246,
+              25.5813209
+            ],
+            [
+              -100.00141,
+              25.5807697
+            ],
+            [
+              -100.0004019,
+              25.5806435
+            ],
+            [
+              -100.0003214,
+              25.5812197
+            ],
+            [
+              -100.0013246,
+              25.5813209
+            ]
+          ]
+        ]
+      },
+      "id": "way/172237546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/232300276",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.5809336,
+              25.7901471
+            ],
+            [
+              -100.5805491,
+              25.789463
+            ],
+            [
+              -100.5804078,
+              25.7895274
+            ],
+            [
+              -100.5803323,
+              25.7893931
+            ],
+            [
+              -100.5799001,
+              25.78959
+            ],
+            [
+              -100.58036,
+              25.7904084
+            ],
+            [
+              -100.5809336,
+              25.7901471
+            ]
+          ]
+        ]
+      },
+      "id": "way/232300276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/291230836",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2640308,
+              25.8188703
+            ],
+            [
+              -100.2636445,
+              25.8189161
+            ],
+            [
+              -100.2636204,
+              25.8188147
+            ],
+            [
+              -100.2635346,
+              25.8188268
+            ],
+            [
+              -100.2635185,
+              25.8187423
+            ],
+            [
+              -100.2634139,
+              25.8187616
+            ],
+            [
+              -100.2635928,
+              25.8198818
+            ],
+            [
+              -100.2641748,
+              25.8197925
+            ],
+            [
+              -100.2640308,
+              25.8188703
+            ]
+          ]
+        ]
+      },
+      "id": "way/291230836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/304741935",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2578078,
+              25.7662799
+            ],
+            [
+              -100.2583501,
+              25.7663684
+            ],
+            [
+              -100.2578872,
+              25.7659249
+            ],
+            [
+              -100.2578496,
+              25.7660979
+            ],
+            [
+              -100.2578142,
+              25.7662446
+            ],
+            [
+              -100.2578078,
+              25.7662799
+            ]
+          ]
+        ]
+      },
+      "id": "way/304741935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/307723483",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.4473877,
+              25.9782851
+            ],
+            [
+              -100.4474428,
+              25.9783223
+            ],
+            [
+              -100.4475729,
+              25.9781666
+            ],
+            [
+              -100.4472034,
+              25.9779171
+            ],
+            [
+              -100.4469618,
+              25.9782063
+            ],
+            [
+              -100.4472762,
+              25.9784186
+            ],
+            [
+              -100.4473877,
+              25.9782851
+            ]
+          ]
+        ]
+      },
+      "id": "way/307723483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/316471324",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.0196999,
+              25.5778913
+            ],
+            [
+              -100.0197676,
+              25.5777775
+            ],
+            [
+              -100.0195507,
+              25.5776638
+            ],
+            [
+              -100.019483,
+              25.5777762
+            ],
+            [
+              -100.0196999,
+              25.5778913
+            ]
+          ]
+        ]
+      },
+      "id": "way/316471324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/339251988",
+        "addr:city": "Apodaca, Nuevo León",
+        "addr:street": "Avenida Héctor Caballero",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "opening_hours": "08:00-21:00",
+        "operator": "Bodega Aurrerá",
+        "shop": "supermarket",
+        "source:date": "2015-04-18",
+        "source:name": "local knowledge"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1869881,
+              25.7394825
+            ],
+            [
+              -100.1871701,
+              25.7394078
+            ],
+            [
+              -100.1870671,
+              25.7392045
+            ],
+            [
+              -100.1868852,
+              25.7392793
+            ],
+            [
+              -100.1869881,
+              25.7394825
+            ]
+          ]
+        ]
+      },
+      "id": "way/339251988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/351751086",
+        "building": "commercial",
+        "name": "Bodega Aurrera"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.49836,
+              25.6978794
+            ],
+            [
+              -100.4986966,
+              25.6978886
+            ],
+            [
+              -100.4987226,
+              25.697316
+            ],
+            [
+              -100.4977657,
+              25.6972806
+            ],
+            [
+              -100.4977396,
+              25.6978532
+            ],
+            [
+              -100.498269,
+              25.6978728
+            ],
+            [
+              -100.49836,
+              25.6978794
+            ]
+          ]
+        ]
+      },
+      "id": "way/351751086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375133986",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2626632,
+              25.7428403
+            ],
+            [
+              -100.2630169,
+              25.7423861
+            ],
+            [
+              -100.2627,
+              25.7421646
+            ],
+            [
+              -100.2621631,
+              25.7417893
+            ],
+            [
+              -100.2617728,
+              25.7422507
+            ],
+            [
+              -100.2626632,
+              25.7428403
+            ]
+          ]
+        ]
+      },
+      "id": "way/375133986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375134000",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2263929,
+              25.7322307
+            ],
+            [
+              -100.2265978,
+              25.7321628
+            ],
+            [
+              -100.2265355,
+              25.7320103
+            ],
+            [
+              -100.2263306,
+              25.7320782
+            ],
+            [
+              -100.2263929,
+              25.7322307
+            ]
+          ]
+        ]
+      },
+      "id": "way/375134000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/378149473",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "operator": "waltmart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2222442,
+              25.797047
+            ],
+            [
+              -100.2222104,
+              25.7961629
+            ],
+            [
+              -100.2219187,
+              25.7961707
+            ],
+            [
+              -100.2219174,
+              25.7959944
+            ],
+            [
+              -100.2217451,
+              25.7959987
+            ],
+            [
+              -100.221751,
+              25.7961769
+            ],
+            [
+              -100.2216034,
+              25.7961767
+            ],
+            [
+              -100.2216095,
+              25.7970633
+            ],
+            [
+              -100.2222442,
+              25.797047
+            ]
+          ]
+        ]
+      },
+      "id": "way/378149473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/378554977",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2470225,
+              25.7413511
+            ],
+            [
+              -100.2466014,
+              25.7411662
+            ],
+            [
+              -100.2464669,
+              25.7413319
+            ],
+            [
+              -100.2467677,
+              25.7414563
+            ],
+            [
+              -100.2470225,
+              25.7413511
+            ]
+          ]
+        ]
+      },
+      "id": "way/378554977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/378565595",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2418267,
+              25.7814703
+            ],
+            [
+              -100.2419037,
+              25.7812706
+            ],
+            [
+              -100.2417311,
+              25.7812095
+            ],
+            [
+              -100.2416572,
+              25.7814065
+            ],
+            [
+              -100.2418267,
+              25.7814703
+            ]
+          ]
+        ]
+      },
+      "id": "way/378565595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/378702812",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "operator": "Wal-Mart México",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1909308,
+              25.7845628
+            ],
+            [
+              -100.1909161,
+              25.7845235
+            ],
+            [
+              -100.1906276,
+              25.7846754
+            ],
+            [
+              -100.1907025,
+              25.7848029
+            ],
+            [
+              -100.1909451,
+              25.7846803
+            ],
+            [
+              -100.1908818,
+              25.7845844
+            ],
+            [
+              -100.1909308,
+              25.7845628
+            ]
+          ]
+        ]
+      },
+      "id": "way/378702812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/380722977",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2048935,
+              25.7133774
+            ],
+            [
+              -100.204925,
+              25.7131359
+            ],
+            [
+              -100.2049135,
+              25.7131165
+            ],
+            [
+              -100.204763,
+              25.7130997
+            ],
+            [
+              -100.2047358,
+              25.7133593
+            ],
+            [
+              -100.2048935,
+              25.7133774
+            ]
+          ]
+        ]
+      },
+      "id": "way/380722977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/380723005",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2012312,
+              25.7078457
+            ],
+            [
+              -100.2012918,
+              25.7084196
+            ],
+            [
+              -100.2022456,
+              25.7083346
+            ],
+            [
+              -100.2021776,
+              25.7076854
+            ],
+            [
+              -100.2020998,
+              25.7076914
+            ],
+            [
+              -100.2020927,
+              25.7076177
+            ],
+            [
+              -100.2019855,
+              25.7076282
+            ],
+            [
+              -100.201997,
+              25.707783
+            ],
+            [
+              -100.2012312,
+              25.7078457
+            ]
+          ]
+        ]
+      },
+      "id": "way/380723005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/380889191",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2412328,
+              25.73432
+            ],
+            [
+              -100.2413549,
+              25.7342196
+            ],
+            [
+              -100.2412049,
+              25.7340716
+            ],
+            [
+              -100.2410828,
+              25.7341721
+            ],
+            [
+              -100.2412328,
+              25.73432
+            ]
+          ]
+        ]
+      },
+      "id": "way/380889191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/399534306",
+        "building": "yes",
+        "name": "Bodega Aurrera pueblo Nuevo",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1742361,
+              25.7599808
+            ],
+            [
+              -100.1739039,
+              25.7591571
+            ],
+            [
+              -100.1735468,
+              25.7592656
+            ],
+            [
+              -100.1735327,
+              25.7592227
+            ],
+            [
+              -100.173387,
+              25.7592673
+            ],
+            [
+              -100.1733991,
+              25.7593111
+            ],
+            [
+              -100.1733269,
+              25.7593427
+            ],
+            [
+              -100.1733608,
+              25.75941
+            ],
+            [
+              -100.1732964,
+              25.7594327
+            ],
+            [
+              -100.1734066,
+              25.759707
+            ],
+            [
+              -100.1734683,
+              25.7596935
+            ],
+            [
+              -100.1736455,
+              25.7601657
+            ],
+            [
+              -100.1738401,
+              25.7601036
+            ],
+            [
+              -100.1738747,
+              25.7601996
+            ],
+            [
+              -100.1739644,
+              25.7601768
+            ],
+            [
+              -100.1739905,
+              25.7602559
+            ],
+            [
+              -100.1740914,
+              25.7602265
+            ],
+            [
+              -100.1740344,
+              25.7600447
+            ],
+            [
+              -100.1742361,
+              25.7599808
+            ]
+          ]
+        ]
+      },
+      "id": "way/399534306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/399698089",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1556181,
+              25.7382941
+            ],
+            [
+              -100.1554141,
+              25.7379845
+            ],
+            [
+              -100.1545718,
+              25.7381057
+            ],
+            [
+              -100.1536268,
+              25.739553
+            ],
+            [
+              -100.1546107,
+              25.7400217
+            ],
+            [
+              -100.1556181,
+              25.7382941
+            ]
+          ]
+        ]
+      },
+      "id": "way/399698089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/400040932",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "level": "1",
+        "name": "Bodega Aurrera",
+        "name:es": "Bodega Aurrera San Miguel",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1989821,
+              25.7231282
+            ],
+            [
+              -100.1989002,
+              25.7220779
+            ],
+            [
+              -100.1986709,
+              25.7220955
+            ],
+            [
+              -100.198664,
+              25.7220216
+            ],
+            [
+              -100.1985399,
+              25.7220289
+            ],
+            [
+              -100.1985553,
+              25.7222416
+            ],
+            [
+              -100.1982811,
+              25.7222577
+            ],
+            [
+              -100.1983487,
+              25.7231888
+            ],
+            [
+              -100.198685,
+              25.723169
+            ],
+            [
+              -100.1986833,
+              25.7231458
+            ],
+            [
+              -100.1989821,
+              25.7231282
+            ]
+          ]
+        ]
+      },
+      "id": "way/400040932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/400062162",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1675521,
+              25.9069797
+            ],
+            [
+              -100.1681555,
+              25.9064745
+            ],
+            [
+              -100.1682564,
+              25.90639
+            ],
+            [
+              -100.1678109,
+              25.9059535
+            ],
+            [
+              -100.1671115,
+              25.9065339
+            ],
+            [
+              -100.1675521,
+              25.9069797
+            ]
+          ]
+        ]
+      },
+      "id": "way/400062162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/402986095",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2919759,
+              25.7563332
+            ],
+            [
+              -100.2919051,
+              25.7561001
+            ],
+            [
+              -100.2917942,
+              25.7561279
+            ],
+            [
+              -100.2918311,
+              25.7562722
+            ],
+            [
+              -100.2916062,
+              25.7563304
+            ],
+            [
+              -100.2916339,
+              25.7564248
+            ],
+            [
+              -100.2919759,
+              25.7563332
+            ]
+          ]
+        ]
+      },
+      "id": "way/402986095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/403185688",
+        "addr:street": "Montes Berneses",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2651144,
+              25.757611
+            ],
+            [
+              -100.2648644,
+              25.7574883
+            ],
+            [
+              -100.2648725,
+              25.7577666
+            ],
+            [
+              -100.264968,
+              25.7577464
+            ],
+            [
+              -100.2650676,
+              25.7577043
+            ],
+            [
+              -100.2651144,
+              25.757611
+            ]
+          ]
+        ]
+      },
+      "id": "way/403185688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/405345979",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2542031,
+              25.7035837
+            ],
+            [
+              -100.2542031,
+              25.7033469
+            ],
+            [
+              -100.2537525,
+              25.7033493
+            ],
+            [
+              -100.2537498,
+              25.7035813
+            ],
+            [
+              -100.2542031,
+              25.7035837
+            ]
+          ]
+        ]
+      },
+      "id": "way/405345979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/406318546",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2476049,
+              25.7635641
+            ],
+            [
+              -100.2476618,
+              25.7633591
+            ],
+            [
+              -100.2475155,
+              25.7633261
+            ],
+            [
+              -100.2474504,
+              25.7635202
+            ],
+            [
+              -100.2476049,
+              25.7635641
+            ]
+          ]
+        ]
+      },
+      "id": "way/406318546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/406811852",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2619362,
+              25.790463
+            ],
+            [
+              -100.2619402,
+              25.7903184
+            ],
+            [
+              -100.2613731,
+              25.7903148
+            ],
+            [
+              -100.2613873,
+              25.790474
+            ],
+            [
+              -100.2619362,
+              25.790463
+            ]
+          ]
+        ]
+      },
+      "id": "way/406811852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/429154286",
+        "addr:city": "Guadalupe",
+        "addr:postcode": "67130",
+        "addr:street": "Av. Adolfo Ruiz Cortinez",
+        "branch": "Valle Soleado",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "opening_hours": "Mo-Fr 7:00-22:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1653367,
+              25.7071412
+            ],
+            [
+              -100.1653507,
+              25.7062701
+            ],
+            [
+              -100.1647389,
+              25.7062743
+            ],
+            [
+              -100.1647063,
+              25.7071327
+            ],
+            [
+              -100.1653367,
+              25.7071412
+            ]
+          ]
+        ]
+      },
+      "id": "way/429154286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/450429277",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.3770433,
+              25.7337789
+            ],
+            [
+              -100.376962,
+              25.7336983
+            ],
+            [
+              -100.3766307,
+              25.7339858
+            ],
+            [
+              -100.376714,
+              25.7340664
+            ],
+            [
+              -100.3769009,
+              25.7339032
+            ],
+            [
+              -100.3770433,
+              25.7337789
+            ]
+          ]
+        ]
+      },
+      "id": "way/450429277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/451972411",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1958101,
+              25.6515687
+            ],
+            [
+              -100.1958561,
+              25.6514124
+            ],
+            [
+              -100.1956685,
+              25.6513613
+            ],
+            [
+              -100.1956225,
+              25.6515176
+            ],
+            [
+              -100.1958101,
+              25.6515687
+            ]
+          ]
+        ]
+      },
+      "id": "way/451972411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/458728876",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.3042949,
+              25.7875138
+            ],
+            [
+              -100.3044161,
+              25.7866195
+            ],
+            [
+              -100.3036516,
+              25.7865143
+            ],
+            [
+              -100.3036304,
+              25.786645
+            ],
+            [
+              -100.3037154,
+              25.7866546
+            ],
+            [
+              -100.3037326,
+              25.7867283
+            ],
+            [
+              -100.3036946,
+              25.7869333
+            ],
+            [
+              -100.3037616,
+              25.7869415
+            ],
+            [
+              -100.3036752,
+              25.787411
+            ],
+            [
+              -100.3042949,
+              25.7875138
+            ]
+          ]
+        ]
+      },
+      "id": "way/458728876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/459427832",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.3875742,
+              25.780722
+            ],
+            [
+              -100.3877406,
+              25.7798287
+            ],
+            [
+              -100.3875286,
+              25.7797948
+            ],
+            [
+              -100.3871151,
+              25.7797288
+            ],
+            [
+              -100.3869603,
+              25.7804861
+            ],
+            [
+              -100.3869364,
+              25.7806027
+            ],
+            [
+              -100.3872076,
+              25.7806582
+            ],
+            [
+              -100.3871675,
+              25.7808386
+            ],
+            [
+              -100.3873431,
+              25.7808607
+            ],
+            [
+              -100.3873893,
+              25.7806915
+            ],
+            [
+              -100.3875742,
+              25.780722
+            ]
+          ]
+        ]
+      },
+      "id": "way/459427832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474838996",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1674331,
+              25.7200849
+            ],
+            [
+              -100.167551,
+              25.7198468
+            ],
+            [
+              -100.1673746,
+              25.7197739
+            ],
+            [
+              -100.1672552,
+              25.7200123
+            ],
+            [
+              -100.1674331,
+              25.7200849
+            ]
+          ]
+        ]
+      },
+      "id": "way/474838996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/486599697",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2022834,
+              25.6634467
+            ],
+            [
+              -100.2023604,
+              25.663219
+            ],
+            [
+              -100.2022249,
+              25.6631717
+            ],
+            [
+              -100.2021386,
+              25.663405
+            ],
+            [
+              -100.2022834,
+              25.6634467
+            ]
+          ]
+        ]
+      },
+      "id": "way/486599697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/487242877",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1898509,
+              25.7301418
+            ],
+            [
+              -100.1898556,
+              25.7299821
+            ],
+            [
+              -100.1895647,
+              25.7299751
+            ],
+            [
+              -100.18956,
+              25.7301348
+            ],
+            [
+              -100.1898509,
+              25.7301418
+            ]
+          ]
+        ]
+      },
+      "id": "way/487242877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/490995557",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.3724052,
+              25.8230657
+            ],
+            [
+              -100.3723764,
+              25.822496
+            ],
+            [
+              -100.3714448,
+              25.8225341
+            ],
+            [
+              -100.3714737,
+              25.823104
+            ],
+            [
+              -100.3724052,
+              25.8230657
+            ]
+          ]
+        ]
+      },
+      "id": "way/490995557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/520360904",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1674174,
+              25.6761034
+            ],
+            [
+              -100.166471,
+              25.6762756
+            ],
+            [
+              -100.1665003,
+              25.6763821
+            ],
+            [
+              -100.1663092,
+              25.6764261
+            ],
+            [
+              -100.166358,
+              25.6765653
+            ],
+            [
+              -100.1664474,
+              25.6765653
+            ],
+            [
+              -100.1664637,
+              25.6766386
+            ],
+            [
+              -100.1665613,
+              25.6766166
+            ],
+            [
+              -100.1665979,
+              25.6768328
+            ],
+            [
+              -100.1675817,
+              25.6766459
+            ],
+            [
+              -100.1675085,
+              25.6762905
+            ],
+            [
+              -100.1674557,
+              25.6763015
+            ],
+            [
+              -100.1674174,
+              25.6761034
+            ]
+          ]
+        ]
+      },
+      "id": "way/520360904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/524543386",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.3147738,
+              25.8000145
+            ],
+            [
+              -100.3149146,
+              25.7999102
+            ],
+            [
+              -100.31477,
+              25.7997519
+            ],
+            [
+              -100.3146292,
+              25.7998562
+            ],
+            [
+              -100.3147738,
+              25.8000145
+            ]
+          ]
+        ]
+      },
+      "id": "way/524543386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/536190444",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.3310254,
+              25.7839492
+            ],
+            [
+              -100.3310518,
+              25.7838106
+            ],
+            [
+              -100.3307528,
+              25.7837643
+            ],
+            [
+              -100.3307263,
+              25.7839029
+            ],
+            [
+              -100.3310254,
+              25.7839492
+            ]
+          ]
+        ]
+      },
+      "id": "way/536190444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/569076584",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2580792,
+              25.7662955
+            ],
+            [
+              -100.2581158,
+              25.766149
+            ],
+            [
+              -100.2578496,
+              25.7660979
+            ],
+            [
+              -100.2578142,
+              25.7662446
+            ],
+            [
+              -100.2580792,
+              25.7662955
+            ]
+          ]
+        ]
+      },
+      "id": "way/569076584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/589309714",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.3419948,
+              25.7396391
+            ],
+            [
+              -100.3422103,
+              25.7388078
+            ],
+            [
+              -100.3417631,
+              25.7387016
+            ],
+            [
+              -100.3417834,
+              25.738632
+            ],
+            [
+              -100.3416127,
+              25.7386027
+            ],
+            [
+              -100.3413769,
+              25.7395073
+            ],
+            [
+              -100.3419948,
+              25.7396391
+            ]
+          ]
+        ]
+      },
+      "id": "way/589309714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/613647156",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.4276007,
+              25.7752733
+            ],
+            [
+              -100.4278446,
+              25.7747607
+            ],
+            [
+              -100.4269177,
+              25.7744422
+            ],
+            [
+              -100.4267266,
+              25.7748907
+            ],
+            [
+              -100.4266676,
+              25.7748669
+            ],
+            [
+              -100.4266371,
+              25.7749474
+            ],
+            [
+              -100.4276007,
+              25.7752733
+            ]
+          ]
+        ]
+      },
+      "id": "way/613647156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/625602464",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1656676,
+              25.6426672
+            ],
+            [
+              -100.1658294,
+              25.6420932
+            ],
+            [
+              -100.1648303,
+              25.6418498
+            ],
+            [
+              -100.164804,
+              25.6419443
+            ],
+            [
+              -100.164863,
+              25.6419588
+            ],
+            [
+              -100.1648415,
+              25.6420289
+            ],
+            [
+              -100.1646591,
+              25.6419902
+            ],
+            [
+              -100.1646162,
+              25.6421401
+            ],
+            [
+              -100.1647932,
+              25.6421812
+            ],
+            [
+              -100.1647181,
+              25.6424545
+            ],
+            [
+              -100.1656676,
+              25.6426672
+            ]
+          ]
+        ]
+      },
+      "id": "way/625602464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/662181245",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.4901516,
+              25.7892123
+            ],
+            [
+              -100.4900277,
+              25.7890362
+            ],
+            [
+              -100.4891914,
+              25.7885554
+            ],
+            [
+              -100.4886496,
+              25.7892654
+            ],
+            [
+              -100.4891807,
+              25.7895939
+            ],
+            [
+              -100.4893792,
+              25.7893186
+            ],
+            [
+              -100.4896635,
+              25.7894683
+            ],
+            [
+              -100.4901516,
+              25.7892123
+            ]
+          ]
+        ]
+      },
+      "id": "way/662181245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/668866895",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1172325,
+              25.6854223
+            ],
+            [
+              -100.1182964,
+              25.6867446
+            ],
+            [
+              -100.1191006,
+              25.6862988
+            ],
+            [
+              -100.1180925,
+              25.6849889
+            ],
+            [
+              -100.1178994,
+              25.6850003
+            ],
+            [
+              -100.1172325,
+              25.6854223
+            ]
+          ]
+        ]
+      },
+      "id": "way/668866895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690015621",
+        "name": "Bodega Aurrera Santa Monica",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1711491,
+              25.6184785
+            ],
+            [
+              -100.1731946,
+              25.6181627
+            ],
+            [
+              -100.1731963,
+              25.6181277
+            ],
+            [
+              -100.1732132,
+              25.6177964
+            ],
+            [
+              -100.172873,
+              25.61748
+            ],
+            [
+              -100.172203,
+              25.6175815
+            ],
+            [
+              -100.1712415,
+              25.6177272
+            ],
+            [
+              -100.1708402,
+              25.617788
+            ],
+            [
+              -100.1711071,
+              25.6182553
+            ],
+            [
+              -100.1711491,
+              25.6184785
+            ]
+          ]
+        ]
+      },
+      "id": "way/690015621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690015623",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1723353,
+              25.618268
+            ],
+            [
+              -100.1722279,
+              25.6177037
+            ],
+            [
+              -100.1712705,
+              25.6178637
+            ],
+            [
+              -100.1713733,
+              25.6184154
+            ],
+            [
+              -100.1723353,
+              25.618268
+            ]
+          ]
+        ]
+      },
+      "id": "way/690015623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/695502816",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.33251,
+              25.7339071
+            ],
+            [
+              -100.3327246,
+              25.7339361
+            ],
+            [
+              -100.3327514,
+              25.7337887
+            ],
+            [
+              -100.332558,
+              25.7337615
+            ],
+            [
+              -100.3325288,
+              25.7337573
+            ],
+            [
+              -100.33251,
+              25.7339071
+            ]
+          ]
+        ]
+      },
+      "id": "way/695502816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/701124280",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.4375929,
+              25.6859643
+            ],
+            [
+              -100.438016,
+              25.6851684
+            ],
+            [
+              -100.4374556,
+              25.6849276
+            ],
+            [
+              -100.4370363,
+              25.6857202
+            ],
+            [
+              -100.4375929,
+              25.6859643
+            ]
+          ]
+        ]
+      },
+      "id": "way/701124280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/704207212",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.6100589,
+              25.8011749
+            ],
+            [
+              -100.6098669,
+              25.8011001
+            ],
+            [
+              -100.6097579,
+              25.8013011
+            ],
+            [
+              -100.6099551,
+              25.8013805
+            ],
+            [
+              -100.6100589,
+              25.8011749
+            ]
+          ]
+        ]
+      },
+      "id": "way/704207212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/704238760",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.5950026,
+              25.7768552
+            ],
+            [
+              -100.5951352,
+              25.7766278
+            ],
+            [
+              -100.5950152,
+              25.7765766
+            ],
+            [
+              -100.5948857,
+              25.7767955
+            ],
+            [
+              -100.5950026,
+              25.7768552
+            ]
+          ]
+        ]
+      },
+      "id": "way/704238760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/708985662",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.4516935,
+              25.6956798
+            ],
+            [
+              -100.4517628,
+              25.6955657
+            ],
+            [
+              -100.4515096,
+              25.6954495
+            ],
+            [
+              -100.4514499,
+              25.6955722
+            ],
+            [
+              -100.4516935,
+              25.6956798
+            ]
+          ]
+        ]
+      },
+      "id": "way/708985662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/713446940",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.5667557,
+              25.8021192
+            ],
+            [
+              -100.5665974,
+              25.801979
+            ],
+            [
+              -100.5664573,
+              25.8021029
+            ],
+            [
+              -100.5665403,
+              25.8021613
+            ],
+            [
+              -100.5664755,
+              25.8022524
+            ],
+            [
+              -100.5665559,
+              25.8023201
+            ],
+            [
+              -100.5667557,
+              25.8021192
+            ]
+          ]
+        ]
+      },
+      "id": "way/713446940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/714032492",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "layer": "1",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.5792014,
+              25.7991574
+            ],
+            [
+              -100.5792866,
+              25.7990701
+            ],
+            [
+              -100.5790516,
+              25.7988902
+            ],
+            [
+              -100.5789722,
+              25.7989907
+            ],
+            [
+              -100.5792014,
+              25.7991574
+            ]
+          ]
+        ]
+      },
+      "id": "way/714032492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/722396131",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.560876,
+              25.7924983
+            ],
+            [
+              -100.5609351,
+              25.792272
+            ],
+            [
+              -100.5607947,
+              25.7922521
+            ],
+            [
+              -100.560743,
+              25.7924583
+            ],
+            [
+              -100.560876,
+              25.7924983
+            ]
+          ]
+        ]
+      },
+      "id": "way/722396131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/722584209",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.6343596,
+              25.8069857
+            ],
+            [
+              -100.6344754,
+              25.8068444
+            ],
+            [
+              -100.6343708,
+              25.8067738
+            ],
+            [
+              -100.6342587,
+              25.8069117
+            ],
+            [
+              -100.6343596,
+              25.8069857
+            ]
+          ]
+        ]
+      },
+      "id": "way/722584209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/728243731",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1808286,
+              25.9230625
+            ],
+            [
+              -100.1808591,
+              25.9228578
+            ],
+            [
+              -100.1807188,
+              25.9228413
+            ],
+            [
+              -100.1806782,
+              25.9230479
+            ],
+            [
+              -100.1807851,
+              25.9230583
+            ],
+            [
+              -100.1808286,
+              25.9230625
+            ]
+          ]
+        ]
+      },
+      "id": "way/728243731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/736586053",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2631386,
+              25.8096444
+            ],
+            [
+              -100.2634129,
+              25.8096141
+            ],
+            [
+              -100.2633935,
+              25.8094962
+            ],
+            [
+              -100.2632453,
+              25.8095126
+            ],
+            [
+              -100.2631192,
+              25.8095265
+            ],
+            [
+              -100.2631386,
+              25.8096444
+            ]
+          ]
+        ]
+      },
+      "id": "way/736586053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/737146733",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.4359631,
+              25.6664916
+            ],
+            [
+              -100.436049,
+              25.6664019
+            ],
+            [
+              -100.4358885,
+              25.6662553
+            ],
+            [
+              -100.4357981,
+              25.6663531
+            ],
+            [
+              -100.4359631,
+              25.6664916
+            ]
+          ]
+        ]
+      },
+      "id": "way/737146733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/741774428",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.128313,
+              25.6669373
+            ],
+            [
+              -100.1283467,
+              25.6668136
+            ],
+            [
+              -100.1280172,
+              25.6667512
+            ],
+            [
+              -100.1279909,
+              25.6668767
+            ],
+            [
+              -100.128313,
+              25.6669373
+            ]
+          ]
+        ]
+      },
+      "id": "way/741774428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/744813445",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1748417,
+              25.6261534
+            ],
+            [
+              -100.1746415,
+              25.6259367
+            ],
+            [
+              -100.174549,
+              25.6260034
+            ],
+            [
+              -100.174737,
+              25.6262256
+            ],
+            [
+              -100.1748417,
+              25.6261534
+            ]
+          ]
+        ]
+      },
+      "id": "way/744813445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/749310933",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1860735,
+              25.6426166
+            ],
+            [
+              -100.1861046,
+              25.6424561
+            ],
+            [
+              -100.1858756,
+              25.6424229
+            ],
+            [
+              -100.1858502,
+              25.6425835
+            ],
+            [
+              -100.1860735,
+              25.6426166
+            ]
+          ]
+        ]
+      },
+      "id": "way/749310933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/764029694",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "building:levels": "1",
+        "height": "7",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.0577211,
+              25.7939209
+            ],
+            [
+              -100.0575494,
+              25.7939743
+            ],
+            [
+              -100.057616,
+              25.794154
+            ],
+            [
+              -100.057749,
+              25.7941196
+            ],
+            [
+              -100.0577671,
+              25.7941082
+            ],
+            [
+              -100.0577748,
+              25.794091
+            ],
+            [
+              -100.0577211,
+              25.7939209
+            ]
+          ]
+        ]
+      },
+      "id": "way/764029694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/781447508",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1057868,
+              25.82045
+            ],
+            [
+              -100.1056983,
+              25.8205886
+            ],
+            [
+              -100.1059336,
+              25.8207081
+            ],
+            [
+              -100.1059867,
+              25.8206369
+            ],
+            [
+              -100.1060274,
+              25.8205822
+            ],
+            [
+              -100.1057868,
+              25.82045
+            ]
+          ]
+        ]
+      },
+      "id": "way/781447508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/788204954",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.5813074,
+              25.7889483
+            ],
+            [
+              -100.5803954,
+              25.7893561
+            ],
+            [
+              -100.5799394,
+              25.7895448
+            ],
+            [
+              -100.5804046,
+              25.7903631
+            ],
+            [
+              -100.5809839,
+              25.790119
+            ],
+            [
+              -100.581729,
+              25.7897877
+            ],
+            [
+              -100.5813074,
+              25.7889483
+            ]
+          ]
+        ]
+      },
+      "id": "way/788204954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/788313971",
+        "building": "retail",
+        "name": "Bodega Aurrera Express Puertos 4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1005685,
+              25.69055
+            ],
+            [
+              -100.100645,
+              25.690435
+            ],
+            [
+              -100.1006191,
+              25.6904213
+            ],
+            [
+              -100.1004441,
+              25.6903287
+            ],
+            [
+              -100.1003915,
+              25.690417
+            ],
+            [
+              -100.1003739,
+              25.6904465
+            ],
+            [
+              -100.1005685,
+              25.69055
+            ]
+          ]
+        ]
+      },
+      "id": "way/788313971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/790791615",
+        "building": "retail",
+        "name": "Bodega Aurrera Express"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2462579,
+              25.586248
+            ],
+            [
+              -100.2465966,
+              25.5860551
+            ],
+            [
+              -100.2464947,
+              25.5858979
+            ],
+            [
+              -100.2461602,
+              25.5860948
+            ],
+            [
+              -100.2462579,
+              25.586248
+            ]
+          ]
+        ]
+      },
+      "id": "way/790791615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/827669567",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.0912827,
+              25.7978364
+            ],
+            [
+              -100.0913624,
+              25.7976372
+            ],
+            [
+              -100.0912084,
+              25.797583
+            ],
+            [
+              -100.091127,
+              25.7977854
+            ],
+            [
+              -100.0912827,
+              25.7978364
+            ]
+          ]
+        ]
+      },
+      "id": "way/827669567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/839535304",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1143771,
+              25.6885616
+            ],
+            [
+              -100.1143811,
+              25.6885371
+            ],
+            [
+              -100.1143976,
+              25.6884362
+            ],
+            [
+              -100.1144005,
+              25.6884185
+            ],
+            [
+              -100.1141296,
+              25.6883828
+            ],
+            [
+              -100.1141156,
+              25.6885279
+            ],
+            [
+              -100.1143771,
+              25.6885616
+            ]
+          ]
+        ]
+      },
+      "id": "way/839535304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/839846679",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.3810102,
+              25.7499928
+            ],
+            [
+              -100.3812462,
+              25.7498479
+            ],
+            [
+              -100.3811657,
+              25.7497271
+            ],
+            [
+              -100.3809136,
+              25.7498624
+            ],
+            [
+              -100.3810102,
+              25.7499928
+            ]
+          ]
+        ]
+      },
+      "id": "way/839846679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/882541828",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1737795,
+              25.7589579
+            ],
+            [
+              -100.1726477,
+              25.75933
+            ],
+            [
+              -100.1731358,
+              25.760533
+            ],
+            [
+              -100.1736454,
+              25.7603832
+            ],
+            [
+              -100.1743806,
+              25.7601555
+            ],
+            [
+              -100.1739004,
+              25.7589211
+            ],
+            [
+              -100.1737795,
+              25.7589579
+            ]
+          ]
+        ]
+      },
+      "id": "way/882541828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/910895007",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2354322,
+              25.7941252
+            ],
+            [
+              -100.2354885,
+              25.7939513
+            ],
+            [
+              -100.2353892,
+              25.793926
+            ],
+            [
+              -100.2353121,
+              25.7939058
+            ],
+            [
+              -100.2352578,
+              25.7940745
+            ],
+            [
+              -100.2354322,
+              25.7941252
+            ]
+          ]
+        ]
+      },
+      "id": "way/910895007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/926136236",
+        "building": "yes",
+        "name": "Bodega Aurrera express Santa Isabel",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.079539,
+              25.6767367
+            ],
+            [
+              -100.0793257,
+              25.676779
+            ],
+            [
+              -100.0793539,
+              25.6769088
+            ],
+            [
+              -100.0793821,
+              25.6769037
+            ],
+            [
+              -100.0795668,
+              25.67687
+            ],
+            [
+              -100.079539,
+              25.6767367
+            ]
+          ]
+        ]
+      },
+      "id": "way/926136236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/928654751",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1848995,
+              25.7207675
+            ],
+            [
+              -100.1847507,
+              25.720693
+            ],
+            [
+              -100.1846123,
+              25.7209174
+            ],
+            [
+              -100.1846001,
+              25.7209372
+            ],
+            [
+              -100.1847489,
+              25.7210117
+            ],
+            [
+              -100.1848995,
+              25.7207675
+            ]
+          ]
+        ]
+      },
+      "id": "way/928654751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/929562933",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1086277,
+              25.7570233
+            ],
+            [
+              -100.108612,
+              25.7567939
+            ],
+            [
+              -100.108482,
+              25.7568012
+            ],
+            [
+              -100.1084978,
+              25.7570305
+            ],
+            [
+              -100.1086277,
+              25.7570233
+            ]
+          ]
+        ]
+      },
+      "id": "way/929562933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/932726620",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.0852857,
+              25.6393035
+            ],
+            [
+              -100.0847916,
+              25.6389728
+            ],
+            [
+              -100.0841293,
+              25.639777
+            ],
+            [
+              -100.0841894,
+              25.6398172
+            ],
+            [
+              -100.0842221,
+              25.6397775
+            ],
+            [
+              -100.0842874,
+              25.6398211
+            ],
+            [
+              -100.0843542,
+              25.63974
+            ],
+            [
+              -100.0847233,
+              25.6399869
+            ],
+            [
+              -100.0852857,
+              25.6393035
+            ]
+          ]
+        ]
+      },
+      "id": "way/932726620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/938235039",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.8191372,
+              25.1926292
+            ],
+            [
+              -99.8191591,
+              25.1920372
+            ],
+            [
+              -99.8189517,
+              25.1920309
+            ],
+            [
+              -99.8189509,
+              25.1920501
+            ],
+            [
+              -99.8187312,
+              25.1920437
+            ],
+            [
+              -99.818707,
+              25.1927161
+            ],
+            [
+              -99.8189628,
+              25.1927236
+            ],
+            [
+              -99.8189664,
+              25.1926242
+            ],
+            [
+              -99.8191372,
+              25.1926292
+            ]
+          ]
+        ]
+      },
+      "id": "way/938235039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/969671257",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1341694,
+              25.8498265
+            ],
+            [
+              -100.1344652,
+              25.8492935
+            ],
+            [
+              -100.1343238,
+              25.8492299
+            ],
+            [
+              -100.1343694,
+              25.8491479
+            ],
+            [
+              -100.1343055,
+              25.8491192
+            ],
+            [
+              -100.1342877,
+              25.8491513
+            ],
+            [
+              -100.1342425,
+              25.849131
+            ],
+            [
+              -100.1342136,
+              25.849183
+            ],
+            [
+              -100.1340631,
+              25.8491154
+            ],
+            [
+              -100.1337687,
+              25.8496466
+            ],
+            [
+              -100.1341694,
+              25.8498265
+            ]
+          ]
+        ]
+      },
+      "id": "way/969671257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/970587072",
+        "building": "yes",
+        "name": "Bodega Aurrera express",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.140284,
+              25.8558153
+            ],
+            [
+              -100.140326,
+              25.8557074
+            ],
+            [
+              -100.1401232,
+              25.8556435
+            ],
+            [
+              -100.1400812,
+              25.8557514
+            ],
+            [
+              -100.140284,
+              25.8558153
+            ]
+          ]
+        ]
+      },
+      "id": "way/970587072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/984092652",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.115653,
+              25.8255839
+            ],
+            [
+              -100.1155648,
+              25.825731
+            ],
+            [
+              -100.115775,
+              25.8258454
+            ],
+            [
+              -100.1158554,
+              25.825703
+            ],
+            [
+              -100.115653,
+              25.8255839
+            ]
+          ]
+        ]
+      },
+      "id": "way/984092652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/994229744",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1656642,
+              25.609767
+            ],
+            [
+              -100.1656012,
+              25.6096386
+            ],
+            [
+              -100.1653677,
+              25.6097333
+            ],
+            [
+              -100.1654377,
+              25.609866
+            ],
+            [
+              -100.1656642,
+              25.609767
+            ]
+          ]
+        ]
+      },
+      "id": "way/994229744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1011342719",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1536763,
+              25.6100421
+            ],
+            [
+              -100.1535362,
+              25.609939
+            ],
+            [
+              -100.1533751,
+              25.6101074
+            ],
+            [
+              -100.1535105,
+              25.6102148
+            ],
+            [
+              -100.1536763,
+              25.6100421
+            ]
+          ]
+        ]
+      },
+      "id": "way/1011342719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1051384677",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.0908219,
+              25.8131397
+            ],
+            [
+              -100.0908254,
+              25.813283
+            ],
+            [
+              -100.0909965,
+              25.8132907
+            ],
+            [
+              -100.0909982,
+              25.8131351
+            ],
+            [
+              -100.0908219,
+              25.8131397
+            ]
+          ]
+        ]
+      },
+      "id": "way/1051384677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1056793844",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.3438496,
+              25.7957649
+            ],
+            [
+              -100.3438613,
+              25.7956267
+            ],
+            [
+              -100.3436163,
+              25.79561
+            ],
+            [
+              -100.3436047,
+              25.7957482
+            ],
+            [
+              -100.3438496,
+              25.7957649
+            ]
+          ]
+        ]
+      },
+      "id": "way/1056793844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1058617516",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.0528137,
+              25.7832358
+            ],
+            [
+              -100.0526609,
+              25.783233
+            ],
+            [
+              -100.0526498,
+              25.7834234
+            ],
+            [
+              -100.0528016,
+              25.7834289
+            ],
+            [
+              -100.0528137,
+              25.7832358
+            ]
+          ]
+        ]
+      },
+      "id": "way/1058617516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1059985119",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.3444146,
+              25.8073062
+            ],
+            [
+              -100.3444467,
+              25.8070877
+            ],
+            [
+              -100.3447672,
+              25.8071257
+            ],
+            [
+              -100.3447853,
+              25.8070023
+            ],
+            [
+              -100.344481,
+              25.8069661
+            ],
+            [
+              -100.3445117,
+              25.8067568
+            ],
+            [
+              -100.3435332,
+              25.8066403
+            ],
+            [
+              -100.3434944,
+              25.8069042
+            ],
+            [
+              -100.3434522,
+              25.8071916
+            ],
+            [
+              -100.3444146,
+              25.8073062
+            ]
+          ]
+        ]
+      },
+      "id": "way/1059985119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1066289427",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.3335524,
+              25.7957441
+            ],
+            [
+              -100.3335694,
+              25.7954746
+            ],
+            [
+              -100.3333634,
+              25.7954686
+            ],
+            [
+              -100.3333464,
+              25.7957343
+            ],
+            [
+              -100.3335524,
+              25.7957441
+            ]
+          ]
+        ]
+      },
+      "id": "way/1066289427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1114713535",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2393645,
+              25.7766222
+            ],
+            [
+              -100.2394135,
+              25.7764182
+            ],
+            [
+              -100.2392641,
+              25.7763846
+            ],
+            [
+              -100.2392127,
+              25.7765864
+            ],
+            [
+              -100.2392342,
+              25.7765915
+            ],
+            [
+              -100.2393451,
+              25.7766176
+            ],
+            [
+              -100.2393645,
+              25.7766222
+            ]
+          ]
+        ]
+      },
+      "id": "way/1114713535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1117241058",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2477937,
+              25.7569364
+            ],
+            [
+              -100.2474455,
+              25.75662
+            ],
+            [
+              -100.2473958,
+              25.7565774
+            ],
+            [
+              -100.2468531,
+              25.7570552
+            ],
+            [
+              -100.2473287,
+              25.7574779
+            ],
+            [
+              -100.2478523,
+              25.7569903
+            ],
+            [
+              -100.2477937,
+              25.7569364
+            ]
+          ]
+        ]
+      },
+      "id": "way/1117241058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1123126011",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.3289325,
+              25.8075576
+            ],
+            [
+              -100.3289683,
+              25.8072987
+            ],
+            [
+              -100.3288074,
+              25.8072807
+            ],
+            [
+              -100.3287717,
+              25.8075396
+            ],
+            [
+              -100.3289325,
+              25.8075576
+            ]
+          ]
+        ]
+      },
+      "id": "way/1123126011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1124691892",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.3228339,
+              25.7960368
+            ],
+            [
+              -100.3228363,
+              25.7958322
+            ],
+            [
+              -100.3226506,
+              25.7958242
+            ],
+            [
+              -100.3226256,
+              25.7958766
+            ],
+            [
+              -100.3226286,
+              25.7960322
+            ],
+            [
+              -100.3228339,
+              25.7960368
+            ]
+          ]
+        ]
+      },
+      "id": "way/1124691892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1125114762",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.3124982,
+              25.8080492
+            ],
+            [
+              -100.3125174,
+              25.8079262
+            ],
+            [
+              -100.3123134,
+              25.8079004
+            ],
+            [
+              -100.3122942,
+              25.8080234
+            ],
+            [
+              -100.3124982,
+              25.8080492
+            ]
+          ]
+        ]
+      },
+      "id": "way/1125114762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1158901885",
+        "building": "yes",
+        "name": "Bodega Aurrera Huinalá",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1995678,
+              25.74595
+            ],
+            [
+              -100.1996692,
+              25.7455074
+            ],
+            [
+              -100.1990501,
+              25.7453838
+            ],
+            [
+              -100.1988676,
+              25.746229
+            ],
+            [
+              -100.1988262,
+              25.7462218
+            ],
+            [
+              -100.1987819,
+              25.7464332
+            ],
+            [
+              -100.1988886,
+              25.7464513
+            ],
+            [
+              -100.1989697,
+              25.7464561
+            ],
+            [
+              -100.1990723,
+              25.7464585
+            ],
+            [
+              -100.1993714,
+              25.7464338
+            ],
+            [
+              -100.1994216,
+              25.7464205
+            ],
+            [
+              -100.1994652,
+              25.7464012
+            ],
+            [
+              -100.1995678,
+              25.74595
+            ]
+          ]
+        ]
+      },
+      "id": "way/1158901885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1192787341",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.5753336,
+              25.7826631
+            ],
+            [
+              -100.5754994,
+              25.7826021
+            ],
+            [
+              -100.5753873,
+              25.7823646
+            ],
+            [
+              -100.5752215,
+              25.7824171
+            ],
+            [
+              -100.5753336,
+              25.7826631
+            ]
+          ]
+        ]
+      },
+      "id": "way/1192787341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1213183366",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.3317565,
+              25.7769459
+            ],
+            [
+              -100.3318003,
+              25.7767334
+            ],
+            [
+              -100.3316771,
+              25.7767128
+            ],
+            [
+              -100.3316334,
+              25.7769253
+            ],
+            [
+              -100.3317565,
+              25.7769459
+            ]
+          ]
+        ]
+      },
+      "id": "way/1213183366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1242017459",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "building": "yes",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.5856536,
+              25.8240088
+            ],
+            [
+              -100.5855919,
+              25.8241923
+            ],
+            [
+              -100.5857314,
+              25.8242333
+            ],
+            [
+              -100.5857962,
+              25.8240499
+            ],
+            [
+              -100.5856536,
+              25.8240088
+            ]
+          ]
+        ]
+      },
+      "id": "way/1242017459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1317684796",
+        "building": "commercial",
+        "building:levels": "1",
+        "name": "Bodega Aurrera"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.418076,
+              25.8196109
+            ],
+            [
+              -100.4180158,
+              25.8194691
+            ],
+            [
+              -100.4178194,
+              25.8195296
+            ],
+            [
+              -100.4178707,
+              25.8196682
+            ],
+            [
+              -100.418076,
+              25.8196109
+            ]
+          ]
+        ]
+      },
+      "id": "way/1317684796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1324193976",
+        "addr:street": "Avenida E. Sexta",
+        "building": "commercial",
+        "height": "10",
+        "name": "bodega aurrera"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2493656,
+              25.7987607
+            ],
+            [
+              -100.2493548,
+              25.7979734
+            ],
+            [
+              -100.2489686,
+              25.7980024
+            ],
+            [
+              -100.248695,
+              25.7980604
+            ],
+            [
+              -100.2486791,
+              25.7987808
+            ],
+            [
+              -100.2493656,
+              25.7987607
+            ]
+          ]
+        ]
+      },
+      "id": "way/1324193976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1722246709",
+        "addr:city": "APODACA",
+        "addr:postcode": "66636",
+        "addr:street": "Avenida Afganistán",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2582236,
+          25.7745389
+        ]
+      },
+      "id": "node/1722246709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1798878575",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.157802,
+          25.7086602
+        ]
+      },
+      "id": "node/1798878575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1798879219",
+        "branch": "Dos Ríos",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.167074,
+          25.676466
+        ]
+      },
+      "id": "node/1798879219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1806324629",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4901763,
+          25.7923063
+        ]
+      },
+      "id": "node/1806324629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2047072071",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.569119,
+          24.865955
+        ]
+      },
+      "id": "node/2047072071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3477763030",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.498327,
+          25.6976505
+        ]
+      },
+      "id": "node/3477763030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785229152",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.245347,
+          25.7499155
+        ]
+      },
+      "id": "node/3785229152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3788008075",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "operator": "Walmart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.251451,
+          25.7137639
+        ]
+      },
+      "id": "node/3788008075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4088705313",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.252947,
+          25.7853714
+        ]
+      },
+      "id": "node/4088705313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4100024750",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.222636,
+          25.6757386
+        ]
+      },
+      "id": "node/4100024750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4404890190",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera Express",
+        "name:es": "bodega aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.224121,
+          25.6844159
+        ]
+      },
+      "id": "node/4404890190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4441541490",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1746492,
+          26.5121484
+        ]
+      },
+      "id": "node/4441541490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4588538290",
+        "addr:postcode": "67262",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.08828,
+          25.6338986
+        ]
+      },
+      "id": "node/4588538290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4611161207",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera Express",
+        "name:es": "Bodega Aurrera",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.179914,
+          25.6834461
+        ]
+      },
+      "id": "node/4611161207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4614154201",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "name": "Bodega Aurrera",
+        "name:es": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1922746,
+          25.7169852
+        ]
+      },
+      "id": "node/4614154201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4639190548",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.247569,
+          25.7634383
+        ]
+      },
+      "id": "node/4639190548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4639190549",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2579505,
+          25.7661872
+        ]
+      },
+      "id": "node/4639190549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5249799900",
+        "addr:street": "Av. San Fernando",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0966112,
+          25.7030482
+        ]
+      },
+      "id": "node/5249799900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5849662515",
+        "name": "Bodega Aurrera Express",
+        "shop": "mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0754035,
+          25.5983143
+        ]
+      },
+      "id": "node/5849662515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6589338956",
+        "air_conditioning": "yes",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "currency:MXN": "yes",
+        "name": "Bodega Aurrera Express",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "operator": "Nueva Walmart de México, S. A.",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.325989,
+          25.7212743
+        ]
+      },
+      "id": "node/6589338956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6766889099",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4737112,
+          25.6764135
+        ]
+      },
+      "id": "node/6766889099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8401361417",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.172093,
+          25.730648
+        ]
+      },
+      "id": "node/8401361417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8401365819",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.17428,
+          25.7247653
+        ]
+      },
+      "id": "node/8401365819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8402318020",
+        "addr:street": "Camino Real",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.344213,
+          25.7481207
+        ]
+      },
+      "id": "node/8402318020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8402354617",
+        "addr:street": "Avenida Aztlán",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.353983,
+          25.7411961
+        ]
+      },
+      "id": "node/8402354617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8403447217",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1528186,
+          25.7566091
+        ]
+      },
+      "id": "node/8403447217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8403464317",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1348805,
+          25.7580525
+        ]
+      },
+      "id": "node/8403464317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8403474917",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1627332,
+          25.7546663
+        ]
+      },
+      "id": "node/8403474917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8403508419",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1110986,
+          25.6946023
+        ]
+      },
+      "id": "node/8403508419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8403521117",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0882446,
+          25.7098526
+        ]
+      },
+      "id": "node/8403521117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8454701017",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.166654,
+          25.7411144
+        ]
+      },
+      "id": "node/8454701017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8454701130",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1300944,
+          25.6210581
+        ]
+      },
+      "id": "node/8454701130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8454701220",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.160038,
+          25.6678591
+        ]
+      },
+      "id": "node/8454701220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8454731720",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.267609,
+          25.617789
+        ]
+      },
+      "id": "node/8454731720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8454731722",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1417892,
+          25.6496569
+        ]
+      },
+      "id": "node/8454731722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8454731732",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "brand:wikipedia": "en:Bodega Aurrerá",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.118244,
+          25.745724
+        ]
+      },
+      "id": "node/8454731732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8454741817",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1198272,
+          25.6228556
+        ]
+      },
+      "id": "node/8454741817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8454763218",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.059358,
+          25.6431614
+        ]
+      },
+      "id": "node/8454763218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8454763621",
+        "branch": "los Puertos",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "name:es": "Bodega Aurrera Loss Puertos",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.118198,
+          25.686288
+        ]
+      },
+      "id": "node/8454763621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8454763624",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.107603,
+          25.6683233
+        ]
+      },
+      "id": "node/8454763624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8454763821",
+        "name": "Bodega Aurrera",
+        "name:es": "Bodega Aurrera Santa Sofía",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1488537,
+          25.7530832
+        ]
+      },
+      "id": "node/8454763821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8454763827",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1010989,
+          25.6676706
+        ]
+      },
+      "id": "node/8454763827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8454763830",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.109038,
+          25.6613455
+        ]
+      },
+      "id": "node/8454763830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8454767017",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0804553,
+          25.6543
+        ]
+      },
+      "id": "node/8454767017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8455109419",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0212815,
+          25.2765352
+        ]
+      },
+      "id": "node/8455109419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8459289517",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.566892,
+          25.787995
+        ]
+      },
+      "id": "node/8459289517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8459299517",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1715843,
+          25.8001452
+        ]
+      },
+      "id": "node/8459299517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8459317931",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.176418,
+          25.890794
+        ]
+      },
+      "id": "node/8459317931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8459318023",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.162667,
+          25.9013186
+        ]
+      },
+      "id": "node/8459318023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8459375917",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1575496,
+          25.9810613
+        ]
+      },
+      "id": "node/8459375917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504586420",
+        "name": "Bodega Aurrera Express",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.37268,
+          25.8540364
+        ]
+      },
+      "id": "node/8504586420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504586422",
+        "addr:street": "Callejón Juan Pablo II",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4105627,
+          25.819348
+        ]
+      },
+      "id": "node/8504586422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504586435",
+        "addr:street": "Camino Real",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.343992,
+          25.7481475
+        ]
+      },
+      "id": "node/8504586435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504586454",
+        "addr:street": "Calle Manantial",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.205297,
+          25.642832
+        ]
+      },
+      "id": "node/8504586454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504656818",
+        "name": "Bodega Aurrera Express",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2191303,
+          25.8074454
+        ]
+      },
+      "id": "node/8504656818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504656820",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.264658,
+          25.7347782
+        ]
+      },
+      "id": "node/8504656820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504656824",
+        "addr:street": "Avenida Laderas",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4067432,
+          25.8402066
+        ]
+      },
+      "id": "node/8504656824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504656918",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3877785,
+          25.8501837
+        ]
+      },
+      "id": "node/8504656918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504656932",
+        "name": "Mi Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2936223,
+          25.9600887
+        ]
+      },
+      "id": "node/8504656932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504656936",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.213833,
+          25.6475272
+        ]
+      },
+      "id": "node/8504656936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504656942",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.246371,
+          25.5860849
+        ]
+      },
+      "id": "node/8504656942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504657119",
+        "branch": "Santo Domingo",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.262601,
+          25.7424856
+        ]
+      },
+      "id": "node/8504657119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504657126",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2624034,
+          25.876735
+        ]
+      },
+      "id": "node/8504657126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504657133",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3768054,
+          25.7943534
+        ]
+      },
+      "id": "node/8504657133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504657135",
+        "addr:street": "Avenida Héctor Caballero",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1257953,
+          25.6367265
+        ]
+      },
+      "id": "node/8504657135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504657221",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3106836,
+          25.8688242
+        ]
+      },
+      "id": "node/8504657221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504657328",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3083721,
+          25.8635325
+        ]
+      },
+      "id": "node/8504657328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504657335",
+        "addr:street": "Camino a San José",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4646998,
+          25.7952486
+        ]
+      },
+      "id": "node/8504657335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504657339",
+        "addr:street": "Avenida Misión San Pablo",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.144794,
+          25.7394685
+        ]
+      },
+      "id": "node/8504657339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504657345",
+        "addr:street": "Avenida de las Fuentes",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.147774,
+          25.7031751
+        ]
+      },
+      "id": "node/8504657345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504658925",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1130463,
+          25.6407108
+        ]
+      },
+      "id": "node/8504658925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504658926",
+        "addr:street": "Avenida Camino Real",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.225057,
+          25.6668138
+        ]
+      },
+      "id": "node/8504658926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8504658934",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.183835,
+          25.9318191
+        ]
+      },
+      "id": "node/8504658934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8523157420",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4660032,
+          25.7902448
+        ]
+      },
+      "id": "node/8523157420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8523157526",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4649051,
+          25.7832188
+        ]
+      },
+      "id": "node/8523157526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8523157530",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3989016,
+          25.7978148
+        ]
+      },
+      "id": "node/8523157530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8523157736",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1420387,
+          25.6170859
+        ]
+      },
+      "id": "node/8523157736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8523158919",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4106816,
+          25.7927211
+        ]
+      },
+      "id": "node/8523158919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8523163818",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.093225,
+          25.6214576
+        ]
+      },
+      "id": "node/8523163818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8523167218",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.331308,
+          25.6976628
+        ]
+      },
+      "id": "node/8523167218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8523229818",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4982618,
+          25.6975976
+        ]
+      },
+      "id": "node/8523229818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8530580818",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.5165342,
+          25.7040989
+        ]
+      },
+      "id": "node/8530580818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8530581117",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4301421,
+          25.6875089
+        ]
+      },
+      "id": "node/8530581117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8530581518",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0794611,
+          25.6768225
+        ]
+      },
+      "id": "node/8530581518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8570487717",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.306581,
+          25.6487743
+        ]
+      },
+      "id": "node/8570487717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8570488717",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.326473,
+          25.6631909
+        ]
+      },
+      "id": "node/8570488717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8581086150",
+        "name": "Bodega Aurrera Puertos 4",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1004897,
+          25.690441
+        ]
+      },
+      "id": "node/8581086150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8590101617",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.154538,
+          25.7392855
+        ]
+      },
+      "id": "node/8590101617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8613329488",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.184747,
+          25.720836
+        ]
+      },
+      "id": "node/8613329488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9217563818",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.155289,
+          25.714311
+        ]
+      },
+      "id": "node/9217563818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9738693114",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Parque Industrial (Bodega Aurrera Puerta Del Sol)",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3427091,
+          25.8068492
+        ]
+      },
+      "id": "node/9738693114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11861317262",
+        "brand": "Bodega Aurrera",
+        "brand:wikidata": "Q3365858",
+        "name": "Bodega Aurrera Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.213811,
+          25.7692834
+        ]
+      },
+      "id": "node/11861317262"
+    }
+  ]
+}

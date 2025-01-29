@@ -1,0 +1,1825 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-10-03T16:43:45Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/12261167",
+        "alt_name": "Ciudad Universitaria UANL",
+        "amenity": "university",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "internet_access:ssid": "wuanl",
+        "name": "Ciudad Universitaria - Universidad Autónoma de Nuevo León",
+        "operator": "Universidad Autónoma de Nuevo León",
+        "operator:type": "university",
+        "type": "multipolygon",
+        "website": "https://www.uanl.mx/",
+        "wikipedia": "es:Universidad Autónoma de Nuevo León",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3114998,
+          25.7277113
+        ]
+      },
+      "id": "relation/12261167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/124639640",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Facultad de Ciencias Fisico-Matematicas",
+        "operator": "Universidad Autónoma de Nuevo León",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3152841,
+          25.7255911
+        ]
+      },
+      "id": "way/124639640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154811780",
+        "addr:city": "Montemorelos",
+        "addr:housenumber": "Apdo. 16",
+        "addr:postcode": "675300",
+        "addr:street": "Av. Libertad 1300 Pte.",
+        "amenity": "university",
+        "name": "Universidad de Montemorelos",
+        "operator": "Iglesia Adventista del Séptimo Dia",
+        "phone": "+52 826 2630900",
+        "website": "https://www.um.edu.mx/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8448199,
+          25.1932062
+        ]
+      },
+      "id": "way/154811780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155876994",
+        "amenity": "university",
+        "contact:website": "https://alvaroobregon.uanl.mx/secciones/unidad_monterrey_ll.php",
+        "name": "Escuela Industrial Preparatoria Técnica Álvaro Obregón Monterrey II",
+        "short_name": "UANL",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3154275,
+          25.6526975
+        ]
+      },
+      "id": "way/155876994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/163760824",
+        "amenity": "university",
+        "name": "UVM Campus Monterrey",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2499801,
+          25.7179693
+        ]
+      },
+      "id": "way/163760824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/164467340",
+        "amenity": "university",
+        "name": "Tec Milenio Campus Las Torres",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3037777,
+          25.628323
+        ]
+      },
+      "id": "way/164467340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/166125822",
+        "amenity": "university",
+        "name": "Instituto Tecnológico y de Estudios Superiores de Monterrey",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2917329,
+          25.6534538
+        ]
+      },
+      "id": "way/166125822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/166125823",
+        "amenity": "university",
+        "name": "Tecnológico de Monterrey",
+        "name:es": "ITESM",
+        "operator": "Tecnológico de Monterrey",
+        "operator:type": "university",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2893208,
+          25.6507462
+        ]
+      },
+      "id": "way/166125823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170282594",
+        "amenity": "university",
+        "name": "Universidad Alfonso Reyes, Unidad LindaVista",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2529465,
+          25.6978214
+        ]
+      },
+      "id": "way/170282594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/211093525",
+        "amenity": "university",
+        "name": "Instalaciones Bosque Escuela UANL",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8614407,
+          24.7064743
+        ]
+      },
+      "id": "way/211093525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/221441961",
+        "amenity": "university",
+        "name": "CEU",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3408827,
+          25.6659295
+        ]
+      },
+      "id": "way/221441961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/258998103",
+        "amenity": "university",
+        "name": "ITESM - EGADE Campus Monterrey",
+        "website": "www.egade.mx",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3256602,
+          25.6436135
+        ]
+      },
+      "id": "way/258998103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/258998350",
+        "addr:city": "San Nicolás de los Garza",
+        "addr:country": "MX",
+        "addr:housename": "TecMilenio",
+        "addr:housenumber": "431",
+        "addr:postcode": "66460",
+        "addr:street": "Calle Iztaccihuatl",
+        "amenity": "university",
+        "name": "Tecmilenio - Campus San Nicolás",
+        "website": "https://tecmilenio.mx/campus/universidad-san-nicolas-monterrey-nuevo-leon/",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.282982,
+          25.7439031
+        ]
+      },
+      "id": "way/258998350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/291002078",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Facultad de Derecho de Monterrey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4419638,
+          25.6608645
+        ]
+      },
+      "id": "way/291002078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/291009245",
+        "amenity": "university",
+        "name": "IPADE Business School",
+        "website": "https://www.ipade.mx/sedes/Pages/monterrey.aspx",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3784732,
+          25.6705536
+        ]
+      },
+      "id": "way/291009245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/307724819",
+        "amenity": "university",
+        "name": "Preparatoria 18 UANL",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4543886,
+          25.9899871
+        ]
+      },
+      "id": "way/307724819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309111408",
+        "amenity": "university",
+        "name": "Universidad Tecnológica De Linares",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5980435,
+          24.8631228
+        ]
+      },
+      "id": "way/309111408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309112376",
+        "amenity": "university",
+        "name": "Facultad de Contaduría Pública y Administración",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5789671,
+          24.8644125
+        ]
+      },
+      "id": "way/309112376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/345552924",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Facultad Organización Deportiva",
+        "operator": "Universidad Autónoma de Nuevo León",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3122836,
+          25.727482
+        ]
+      },
+      "id": "way/345552924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/346016919",
+        "addr:city": "Monterrey",
+        "addr:housenumber": "430",
+        "addr:postcode": "64000",
+        "addr:street": "Calle Mariano Matamoros",
+        "alt_name": "U-ERRE",
+        "amenity": "university",
+        "internet_access": "yes",
+        "name": "Universidad Regiomontana",
+        "operator": "uerre",
+        "operator:type": "private",
+        "website": "https://u-erre.mx",
+        "wikipedia": "es:Universidad Regiomontana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3220535,
+          25.6702848
+        ]
+      },
+      "id": "way/346016919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375251370",
+        "addr:city": "monterrey",
+        "addr:postcode": "64000",
+        "addr:street": "Ignacio Zaragoza",
+        "amenity": "university",
+        "name": "UMM LAE",
+        "operator": "Universidad Metropolitana de Monterrey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3099098,
+          25.6761097
+        ]
+      },
+      "id": "way/375251370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375251371",
+        "addr:city": "Monterrey",
+        "addr:street": "15 de Mayo",
+        "amenity": "university",
+        "name": "UMM",
+        "operator": "Universidad Metropolitana de Monterrey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.31137,
+          25.6729895
+        ]
+      },
+      "id": "way/375251371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375251378",
+        "addr:city": "Monterrey",
+        "addr:housenumber": "298",
+        "addr:postcode": "64000",
+        "addr:street": "Juan Ignacio Ramon",
+        "amenity": "university",
+        "name": "UMM Comunicacion",
+        "operator": "Universidad Metropolitana de Monterrey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3135085,
+          25.6708723
+        ]
+      },
+      "id": "way/375251378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375259562",
+        "addr:city": "Monterrey",
+        "addr:housenumber": "SN",
+        "addr:postcode": "64000",
+        "addr:street": "Calz. Francisco I. Madero",
+        "amenity": "university",
+        "name": "Preparatoria Álvaro Obregón #3",
+        "operator": "UANL",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2960546,
+          25.6829895
+        ]
+      },
+      "id": "way/375259562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375433240",
+        "amenity": "university",
+        "name": "Instituto Tecnológico de Nuevo León",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2445817,
+          25.6654162
+        ]
+      },
+      "id": "way/375433240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375458229",
+        "amenity": "university",
+        "name": "Conalep",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2560275,
+          25.7437328
+        ]
+      },
+      "id": "way/375458229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375464901",
+        "amenity": "university",
+        "name": "Preraratoria Alvaro Obregon",
+        "operator": "UANL",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2453401,
+          25.7536184
+        ]
+      },
+      "id": "way/375464901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/378565596",
+        "amenity": "university",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2387148,
+          25.7839478
+        ]
+      },
+      "id": "way/378565596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/378702803",
+        "amenity": "university",
+        "name": "INSUCO",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1890242,
+          25.7808585
+        ]
+      },
+      "id": "way/378702803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/378712626",
+        "amenity": "university",
+        "name": "CNCI",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1871555,
+          25.7805968
+        ]
+      },
+      "id": "way/378712626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/379426825",
+        "amenity": "university",
+        "name": "Fac Filosofía y Letras",
+        "operator": "UANL",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3156563,
+          25.6746591
+        ]
+      },
+      "id": "way/379426825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/379465565",
+        "amenity": "university",
+        "name": "Criminología UMM",
+        "operator": "Universidad Metropolitana de Monterrey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3105177,
+          25.6752192
+        ]
+      },
+      "id": "way/379465565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/396955568",
+        "amenity": "university",
+        "name": "UDEM",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3537049,
+          25.6779613
+        ]
+      },
+      "id": "way/396955568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/402965936",
+        "amenity": "university",
+        "name": "Universidad Valle de México",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3789383,
+          25.7256514
+        ]
+      },
+      "id": "way/402965936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/403955453",
+        "amenity": "university",
+        "name": "Artes y Ciencias",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3041933,
+          25.7646631
+        ]
+      },
+      "id": "way/403955453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/404141760",
+        "amenity": "university",
+        "name": "Jose Vasconcelos",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2065712,
+          25.7231606
+        ]
+      },
+      "id": "way/404141760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/419981625",
+        "amenity": "university",
+        "name": "Preparatoria No. 12 UANL",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9897643,
+          25.5729639
+        ]
+      },
+      "id": "way/419981625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/434056277",
+        "amenity": "university",
+        "name": "Monte Real Centro Universitario",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3531981,
+          25.6521615
+        ]
+      },
+      "id": "way/434056277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/447058793",
+        "amenity": "university",
+        "name": "UANL Campus Sabinas",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2112348,
+          26.5149909
+        ]
+      },
+      "id": "way/447058793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/450429281",
+        "amenity": "university",
+        "name": "Jose Vasconcelos",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3759478,
+          25.7332293
+        ]
+      },
+      "id": "way/450429281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/450434263",
+        "amenity": "university",
+        "name": "Universidad CNCI",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3789192,
+          25.7376369
+        ]
+      },
+      "id": "way/450434263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/451970732",
+        "amenity": "university",
+        "name": "Universidad José Vasconcelos",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1960754,
+          25.6506452
+        ]
+      },
+      "id": "way/451970732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/452140934",
+        "amenity": "university",
+        "name": "Universidad Tec Milenio",
+        "operator": "ITESM Tecnológico de Monterrey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2071523,
+          25.6564703
+        ]
+      },
+      "id": "way/452140934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/452718491",
+        "amenity": "university",
+        "name": "CEU",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3242205,
+          25.6685045
+        ]
+      },
+      "id": "way/452718491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/453604459",
+        "amenity": "university",
+        "name": "Alfonso Reyes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2587965,
+          25.7521147
+        ]
+      },
+      "id": "way/453604459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/455577792",
+        "alt_name": "UMM",
+        "amenity": "university",
+        "name": "Universidad Metropolitana de Monterrey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1865794,
+          25.7816024
+        ]
+      },
+      "id": "way/455577792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/476748114",
+        "amenity": "university",
+        "name": "Universidad Politécnica de Apodaca",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1356248,
+          25.8004358
+        ]
+      },
+      "id": "way/476748114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/485900241",
+        "amenity": "university",
+        "name": "Universidad Interamericana del Norte",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2468437,
+          25.5748189
+        ]
+      },
+      "id": "way/485900241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/495726439",
+        "addr:city": "Monterrey",
+        "addr:housenumber": "1350",
+        "addr:postcode": "64480",
+        "addr:street": "Venustiano Carranza",
+        "amenity": "university",
+        "internet_access": "yes",
+        "name": "Universidad del Norte",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3306821,
+          25.6887288
+        ]
+      },
+      "id": "way/495726439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/522521702",
+        "amenity": "university",
+        "name": "Universidad Tecnológica General Mariano Escobedo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2766875,
+          25.8306414
+        ]
+      },
+      "id": "way/522521702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/525048576",
+        "amenity": "university",
+        "name": "Universidad Regiomontana",
+        "operator": "U-ERRE",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3215984,
+          25.6731016
+        ]
+      },
+      "id": "way/525048576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/528827503",
+        "addr:city": "Monterrey",
+        "addr:housenumber": "91",
+        "addr:postcode": "64349",
+        "addr:street": "Alejandro de Rodas",
+        "amenity": "university",
+        "building": "yes",
+        "internet_access": "yes",
+        "name": "Universidad Tec Milenio - Campus Cumbres",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4027316,
+          25.7413352
+        ]
+      },
+      "id": "way/528827503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/544867763",
+        "amenity": "university",
+        "name": "UNICA",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.324317,
+          25.6709969
+        ]
+      },
+      "id": "way/544867763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/544867826",
+        "amenity": "university",
+        "name": "C.E.U.",
+        "operator": "Centro de Estudios Universitarios",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3237726,
+          25.6694018
+        ]
+      },
+      "id": "way/544867826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/554135890",
+        "amenity": "university",
+        "name": "Universidad Tecnológica Santa Catarina, Campus Montemorelos",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8437883,
+          25.1680487
+        ]
+      },
+      "id": "way/554135890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/554135891",
+        "amenity": "university",
+        "name": "Preparatoria 6 UANL",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8384683,
+          25.1790241
+        ]
+      },
+      "id": "way/554135891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/554135893",
+        "amenity": "university",
+        "name": "Instituto Sierra Madre",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8376025,
+          25.1865886
+        ]
+      },
+      "id": "way/554135893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/555892825",
+        "amenity": "university",
+        "name": "Preparatoría 1 UANL",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1817353,
+          25.7841038
+        ]
+      },
+      "id": "way/555892825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/585216148",
+        "amenity": "university",
+        "name": "Universidad Tecnológica de Santa Catarina",
+        "sett_code": "190482893",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.5121075,
+          25.6890457
+        ]
+      },
+      "id": "way/585216148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/589309738",
+        "amenity": "university",
+        "name": "Emiliano Zapata",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3436353,
+          25.7427172
+        ]
+      },
+      "id": "way/589309738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/625602412",
+        "amenity": "university",
+        "name": "Universidad EDEC",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1721908,
+          25.6454817
+        ]
+      },
+      "id": "way/625602412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/629959980",
+        "amenity": "university",
+        "name": "División de Estudios de Posgrado FCQ",
+        "operator": "Universidad Autónoma de Nuevo León",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3101117,
+          25.692459
+        ]
+      },
+      "id": "way/629959980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/635400835",
+        "addr:city": "Monterrey",
+        "addr:housenumber": "4500",
+        "addr:postcode": "66238",
+        "addr:street": "Avenida Ignacion Morones Prieto",
+        "alt_name": "Universidad de Monterrey",
+        "amenity": "university",
+        "name": "UDEM",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4195371,
+          25.6623806
+        ]
+      },
+      "id": "way/635400835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/641653300",
+        "amenity": "university",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4420098,
+          25.6616116
+        ]
+      },
+      "id": "way/641653300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/677780219",
+        "amenity": "university",
+        "name": "Colegio de Bachilleres Militarizado \"Gral. Mariano Escobedo\"",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2761741,
+          25.7170187
+        ]
+      },
+      "id": "way/677780219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/702519250",
+        "amenity": "university",
+        "name": "UVNE",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.5942549,
+          25.8117083
+        ]
+      },
+      "id": "way/702519250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703446047",
+        "amenity": "university",
+        "name": "UANL Campus Ciencias Agropecuarias",
+        "operator": "UANL",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.288358,
+          25.7845356
+        ]
+      },
+      "id": "way/703446047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/704448615",
+        "amenity": "university",
+        "name": "Universidad José Vasconcelos",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4566032,
+          25.674653
+        ]
+      },
+      "id": "way/704448615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/720252645",
+        "amenity": "university",
+        "name": "Facultad de Medicina Veterinaria UVNE",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4616738,
+          25.6733895
+        ]
+      },
+      "id": "way/720252645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/758616508",
+        "amenity": "university",
+        "name": "Universidad Politécnica de García",
+        "website": "https://www.upgarcia.edu.mx/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.6063839,
+          25.7879274
+        ]
+      },
+      "id": "way/758616508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/769796101",
+        "amenity": "university",
+        "name": "Universidad Tecnológica Cadereyta",
+        "website": "https://utcadereyta.edu.mx/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9680883,
+          25.553989
+        ]
+      },
+      "id": "way/769796101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/774712837",
+        "amenity": "university",
+        "name": "LICEO de Apodaca",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1941011,
+          25.8080459
+        ]
+      },
+      "id": "way/774712837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/826010406",
+        "amenity": "university",
+        "name": "Hacienda San Pedro “Celso Garza Guajardo”",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.141155,
+          25.9164377
+        ]
+      },
+      "id": "way/826010406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/848931873",
+        "amenity": "university",
+        "name": "Facultad de Ciencias de la Tierra UANL",
+        "website": "https://fct.uanl.mx/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4675536,
+          24.8987616
+        ]
+      },
+      "id": "way/848931873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/849807837",
+        "amenity": "university",
+        "name": "Facultad de Ciencias Forestales UANL",
+        "operator": "Universidad Autónoma de Nuevo León",
+        "operator:type": "public",
+        "website": "https://fcf.uanl.mx/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5365268,
+          24.7854976
+        ]
+      },
+      "id": "way/849807837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1011929496",
+        "amenity": "university",
+        "name": "Preparatoria #22 UANL Unidad Juárez",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0878319,
+          25.6451183
+        ]
+      },
+      "id": "way/1011929496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1019873431",
+        "amenity": "university",
+        "name": "UANL Campus Cadereyta",
+        "operator": "UANL",
+        "operator:type": "public",
+        "source": "https://www.uanl.mx/noticias/cadereyta-contara-con-campus-de-la-uanl-2/",
+        "website": "https://uanl.mx",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9686693,
+          25.5512625
+        ]
+      },
+      "id": "way/1019873431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1054834135",
+        "amenity": "university",
+        "name": "CeCyte",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0238624,
+          25.874832
+        ]
+      },
+      "id": "way/1054834135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1102234511",
+        "amenity": "university",
+        "name": "Universidad Tecnologica Franco-Mexicana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0476936,
+          25.6380757
+        ]
+      },
+      "id": "way/1102234511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1102416317",
+        "amenity": "university",
+        "name": "UANL Campus Mederos",
+        "operator": "Universidad Autónoma de Nuevo León",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2875835,
+          25.6103891
+        ]
+      },
+      "id": "way/1102416317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1169523708",
+        "amenity": "university",
+        "name": "UANL Campus Ciencias de la Salud",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3491356,
+          25.6909902
+        ]
+      },
+      "id": "way/1169523708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1196906183",
+        "addr:city": "General Escobedo",
+        "addr:housenumber": "250",
+        "addr:street": "Avenida Licenciado Raúl Salinas Lozano",
+        "amenity": "university",
+        "name": "Universidad Alfonso Reyes - Unidad Escobedo",
+        "phone": "+528183974343",
+        "website": "https://www.uar-edu.com.mx/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3206425,
+          25.7836398
+        ]
+      },
+      "id": "way/1196906183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1257653297",
+        "amenity": "university",
+        "name": "UANL Juarez",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1047966,
+          25.6038254
+        ]
+      },
+      "id": "way/1257653297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1266596526",
+        "addr:city": "Monterrey",
+        "addr:postcode": "64000",
+        "addr:state": "Nuevo León",
+        "addr:street": "Calle Colegio Civil",
+        "amenity": "university",
+        "name": "Colegio Civil Centro Cultural Universitario",
+        "operator": "Universidad Autónoma de Nuevo León",
+        "operator:type": "university",
+        "website": "https://cultura.uanl.mx/colegio-civil-centro-cultural-universitario/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3157682,
+          25.6741416
+        ]
+      },
+      "id": "way/1266596526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1280386477",
+        "amenity": "university",
+        "name": "Propiedad de la UERRE",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3231731,
+          25.6760728
+        ]
+      },
+      "id": "way/1280386477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2047644109",
+        "amenity": "university",
+        "building": "school",
+        "name": "Universidad Tecnológica De Linares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.598171,
+          24.863273
+        ]
+      },
+      "id": "node/2047644109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2175595807",
+        "amenity": "university",
+        "name": "Facultad De Ciencias De La Tierra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.467324,
+          24.898079
+        ]
+      },
+      "id": "node/2175595807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2944722224",
+        "addr:city": "Santa Catarina",
+        "addr:housenumber": "1000",
+        "addr:postcode": "66197",
+        "addr:street": "I. Morones Prieto",
+        "amenity": "university",
+        "name": "Facultad Libre de Derecho de Monterrey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4422774,
+          25.6619589
+        ]
+      },
+      "id": "node/2944722224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3788008149",
+        "amenity": "university",
+        "name": "Mariano Jimenez #4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2120534,
+          25.6733023
+        ]
+      },
+      "id": "node/3788008149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4097582687",
+        "amenity": "university",
+        "name": "Centro Universitario de la Salud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2120858,
+          25.6704346
+        ]
+      },
+      "id": "node/4097582687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4121973242",
+        "amenity": "university",
+        "name": "Centro Tecnológico Industrial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3477028,
+          25.7073304
+        ]
+      },
+      "id": "node/4121973242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4178236393",
+        "addr:city": "Dr Arroyo",
+        "addr:housename": "Centro de Dr.arroyo",
+        "addr:postcode": "67900",
+        "addr:street": "NL 61",
+        "amenity": "university",
+        "email": "reparatoria_10@hotmail.com",
+        "fax": "+52 488 888 02 18",
+        "name": "Edificio de la Preparatoria No. 10. Dr. Arroyo",
+        "phone": "+52 488 888 02 18",
+        "website": "https://www.uanl.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1882766,
+          23.678904
+        ]
+      },
+      "id": "node/4178236393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4870636519",
+        "amenity": "university",
+        "name": "Facultad de ingeniería y arquitectura (Aulas 3)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3219404,
+          25.672805
+        ]
+      },
+      "id": "node/4870636519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4870646341",
+        "amenity": "university",
+        "name": "IESALUD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3212055,
+          25.6723509
+        ]
+      },
+      "id": "node/4870646341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4964254595",
+        "addr:city": "Monterrey",
+        "addr:housenumber": "1147",
+        "addr:postcode": "64000",
+        "addr:street": "Calle Profesor José Silvestre Aramberri",
+        "amenity": "university",
+        "name": "Insituto de tecnología avanzada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.324671,
+          25.6773661
+        ]
+      },
+      "id": "node/4964254595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6326193946",
+        "amenity": "university",
+        "name": "UTE Escobedo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2821326,
+          25.8304389
+        ]
+      },
+      "id": "node/6326193946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7280347697",
+        "amenity": "university",
+        "name": "Tec Milenio",
+        "operator": "Tec Milenio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2078645,
+          25.6566396
+        ]
+      },
+      "id": "node/7280347697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8450533868",
+        "amenity": "university",
+        "name": "INSUCO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3169019,
+          25.6737064
+        ]
+      },
+      "id": "node/8450533868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9009038940",
+        "amenity": "university",
+        "name": "Facultad de Agronomía UANL",
+        "operator": "Universidad Autónoma de Nuevo León",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0451755,
+          25.8748867
+        ]
+      },
+      "id": "node/9009038940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9403792936",
+        "amenity": "university",
+        "name": "Universidad José Vasconcelos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1120606,
+          25.6532172
+        ]
+      },
+      "id": "node/9403792936"
+    }
+  ]
+}

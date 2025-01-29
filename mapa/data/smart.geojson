@@ -1,0 +1,1034 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-12-31T16:31:39Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155894405",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "Smart Fit"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2328788,
+              25.6611186
+            ],
+            [
+              -100.2328944,
+              25.6610318
+            ],
+            [
+              -100.2322458,
+              25.660937
+            ],
+            [
+              -100.2322302,
+              25.6610238
+            ],
+            [
+              -100.2328788,
+              25.6611186
+            ]
+          ]
+        ]
+      },
+      "id": "way/155894405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/241029854",
+        "building": "yes",
+        "name": "S-Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1521991,
+              25.43056
+            ],
+            [
+              -100.1519651,
+              25.4300343
+            ],
+            [
+              -100.1516132,
+              25.4301695
+            ],
+            [
+              -100.1516731,
+              25.4303774
+            ],
+            [
+              -100.1515178,
+              25.4304501
+            ],
+            [
+              -100.1516788,
+              25.4307341
+            ],
+            [
+              -100.1521991,
+              25.43056
+            ]
+          ]
+        ]
+      },
+      "id": "way/241029854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375133983",
+        "building": "yes",
+        "name": "Smart",
+        "name:es": "S-Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2558023,
+              25.748811
+            ],
+            [
+              -100.2565185,
+              25.748137
+            ],
+            [
+              -100.256147,
+              25.7480084
+            ],
+            [
+              -100.256086,
+              25.7480657
+            ],
+            [
+              -100.2556025,
+              25.7478555
+            ],
+            [
+              -100.2556535,
+              25.747806
+            ],
+            [
+              -100.2551606,
+              25.7476103
+            ],
+            [
+              -100.2546483,
+              25.7481364
+            ],
+            [
+              -100.2547529,
+              25.7481889
+            ],
+            [
+              -100.2546879,
+              25.7482995
+            ],
+            [
+              -100.2558023,
+              25.748811
+            ]
+          ]
+        ]
+      },
+      "id": "way/375133983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/429094741",
+        "brand": "S-Mart",
+        "brand:wikidata": "Q7387069",
+        "building": "yes",
+        "name": "S-Mart",
+        "operator": "S-Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1838021,
+              25.6543612
+            ],
+            [
+              -100.1826975,
+              25.654108
+            ],
+            [
+              -100.1825744,
+              25.6543831
+            ],
+            [
+              -100.1834545,
+              25.6547203
+            ],
+            [
+              -100.1835399,
+              25.6546818
+            ],
+            [
+              -100.1838021,
+              25.6543612
+            ]
+          ]
+        ]
+      },
+      "id": "way/429094741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/450434257",
+        "building": "yes",
+        "name": "S-Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.3801955,
+              25.7367868
+            ],
+            [
+              -100.3800133,
+              25.736568
+            ],
+            [
+              -100.3799293,
+              25.7366227
+            ],
+            [
+              -100.3797845,
+              25.7364755
+            ],
+            [
+              -100.3796491,
+              25.7365722
+            ],
+            [
+              -100.3797051,
+              25.7366227
+            ],
+            [
+              -100.3795977,
+              25.7366942
+            ],
+            [
+              -100.3797938,
+              25.7369088
+            ],
+            [
+              -100.380004,
+              25.7369466
+            ],
+            [
+              -100.3801087,
+              25.7368592
+            ],
+            [
+              -100.3801955,
+              25.7367868
+            ]
+          ]
+        ]
+      },
+      "id": "way/450434257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/459427816",
+        "building": "yes",
+        "name": "Smart",
+        "name:es": "S-Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.3857259,
+              25.7766866
+            ],
+            [
+              -100.3856827,
+              25.7766422
+            ],
+            [
+              -100.3855349,
+              25.7766311
+            ],
+            [
+              -100.3855441,
+              25.7764785
+            ],
+            [
+              -100.3851621,
+              25.7764535
+            ],
+            [
+              -100.3847862,
+              25.7768919
+            ],
+            [
+              -100.3851035,
+              25.7771388
+            ],
+            [
+              -100.38535,
+              25.7771027
+            ],
+            [
+              -100.3857259,
+              25.7766866
+            ]
+          ]
+        ]
+      },
+      "id": "way/459427816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/490997979",
+        "brand": "S-Mart",
+        "brand:wikidata": "Q7387069",
+        "building": "yes",
+        "name": "S-Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.3232239,
+              25.7880615
+            ],
+            [
+              -100.3226884,
+              25.7882529
+            ],
+            [
+              -100.3230278,
+              25.7890537
+            ],
+            [
+              -100.3232077,
+              25.7889985
+            ],
+            [
+              -100.3233603,
+              25.7882332
+            ],
+            [
+              -100.3232239,
+              25.7880615
+            ]
+          ]
+        ]
+      },
+      "id": "way/490997979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/491374477",
+        "building": "yes",
+        "name": "SMarT",
+        "name:es": "S-Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.3998485,
+              25.7306222
+            ],
+            [
+              -100.399129,
+              25.7301077
+            ],
+            [
+              -100.3987915,
+              25.7304757
+            ],
+            [
+              -100.3995054,
+              25.7310049
+            ],
+            [
+              -100.3998485,
+              25.7306222
+            ]
+          ]
+        ]
+      },
+      "id": "way/491374477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/499106233",
+        "building": "yes",
+        "name": "S-MART",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2357801,
+              25.7859208
+            ],
+            [
+              -100.2357855,
+              25.7855634
+            ],
+            [
+              -100.2357855,
+              25.7854861
+            ],
+            [
+              -100.2355361,
+              25.7852566
+            ],
+            [
+              -100.2354422,
+              25.7852577
+            ],
+            [
+              -100.2351535,
+              25.7852612
+            ],
+            [
+              -100.2349784,
+              25.7856363
+            ],
+            [
+              -100.2351713,
+              25.7856406
+            ],
+            [
+              -100.2351767,
+              25.785817
+            ],
+            [
+              -100.2352839,
+              25.7859063
+            ],
+            [
+              -100.2357801,
+              25.7859208
+            ]
+          ]
+        ]
+      },
+      "id": "way/499106233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/508779313",
+        "building": "yes",
+        "name": "S-Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.4055095,
+              25.7638701
+            ],
+            [
+              -100.4059803,
+              25.7642291
+            ],
+            [
+              -100.4063055,
+              25.7638629
+            ],
+            [
+              -100.4062893,
+              25.7635188
+            ],
+            [
+              -100.405974,
+              25.7633026
+            ],
+            [
+              -100.4055095,
+              25.7638701
+            ]
+          ]
+        ]
+      },
+      "id": "way/508779313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/521379178",
+        "building": "yes",
+        "name": "S-Mart (El Molinete)",
+        "operator": "S-Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.1494802,
+              25.6615542
+            ],
+            [
+              -100.1496016,
+              25.6612132
+            ],
+            [
+              -100.1494755,
+              25.6610364
+            ],
+            [
+              -100.1491186,
+              25.66093
+            ],
+            [
+              -100.1489607,
+              25.6614174
+            ],
+            [
+              -100.1494802,
+              25.6615542
+            ]
+          ]
+        ]
+      },
+      "id": "way/521379178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/576806952",
+        "building": "yes",
+        "name": "S-MART",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.3604279,
+              25.7226308
+            ],
+            [
+              -100.3599172,
+              25.7219586
+            ],
+            [
+              -100.3594556,
+              25.722247
+            ],
+            [
+              -100.3596425,
+              25.7224752
+            ],
+            [
+              -100.3600704,
+              25.722854
+            ],
+            [
+              -100.3604279,
+              25.7226308
+            ]
+          ]
+        ]
+      },
+      "id": "way/576806952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617514762",
+        "building": "yes",
+        "name": "Smart Camino Real",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.2285451,
+              25.6604768
+            ],
+            [
+              -100.228706,
+              25.6600713
+            ],
+            [
+              -100.2280485,
+              25.6599003
+            ],
+            [
+              -100.2278795,
+              25.6602985
+            ],
+            [
+              -100.2285451,
+              25.6604768
+            ]
+          ]
+        ]
+      },
+      "id": "way/617514762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/701124282",
+        "building": "yes",
+        "name": "S-Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.4360985,
+              25.6848111
+            ],
+            [
+              -100.4354603,
+              25.6845436
+            ],
+            [
+              -100.4353155,
+              25.684577
+            ],
+            [
+              -100.435297,
+              25.6846239
+            ],
+            [
+              -100.4351485,
+              25.6845704
+            ],
+            [
+              -100.4350112,
+              25.6848513
+            ],
+            [
+              -100.4358833,
+              25.6852292
+            ],
+            [
+              -100.4360985,
+              25.6848111
+            ]
+          ]
+        ]
+      },
+      "id": "way/701124282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/704021786",
+        "building": "yes",
+        "name": "SMart",
+        "name:es": "S-Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.5785121,
+              25.7864288
+            ],
+            [
+              -100.5789942,
+              25.7862622
+            ],
+            [
+              -100.5790916,
+              25.7860386
+            ],
+            [
+              -100.5789211,
+              25.7856879
+            ],
+            [
+              -100.5782784,
+              25.785929
+            ],
+            [
+              -100.5785121,
+              25.7864288
+            ]
+          ]
+        ]
+      },
+      "id": "way/704021786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/788204952",
+        "landuse": "retail",
+        "name": "SMart"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.5780011,
+              25.7859857
+            ],
+            [
+              -100.5788075,
+              25.7875812
+            ],
+            [
+              -100.5789926,
+              25.7874991
+            ],
+            [
+              -100.579867,
+              25.7870547
+            ],
+            [
+              -100.5803471,
+              25.7867311
+            ],
+            [
+              -100.5803632,
+              25.7866248
+            ],
+            [
+              -100.579765,
+              25.7853689
+            ],
+            [
+              -100.5780011,
+              25.7859857
+            ]
+          ]
+        ]
+      },
+      "id": "way/788204952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/932649273",
+        "building": "yes",
+        "name": "S-Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.162974,
+              25.7073719
+            ],
+            [
+              -100.1623413,
+              25.7072422
+            ],
+            [
+              -100.1621863,
+              25.7077539
+            ],
+            [
+              -100.1622198,
+              25.7077607
+            ],
+            [
+              -100.1626377,
+              25.7078451
+            ],
+            [
+              -100.1626816,
+              25.7078207
+            ],
+            [
+              -100.162707,
+              25.7078605
+            ],
+            [
+              -100.1628714,
+              25.7077582
+            ],
+            [
+              -100.1628542,
+              25.7077219
+            ],
+            [
+              -100.1628872,
+              25.7076984
+            ],
+            [
+              -100.1629573,
+              25.7074349
+            ],
+            [
+              -100.162974,
+              25.7073719
+            ]
+          ]
+        ]
+      },
+      "id": "way/932649273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316485378",
+        "brand": "Smart & Final",
+        "brand:wikidata": "Q7543916",
+        "building": "yes",
+        "name": "Smart & Final",
+        "opening_hours": "08:00-22:00",
+        "operator": "smart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.3142681,
+              25.7978698
+            ],
+            [
+              -100.3140351,
+              25.7978362
+            ],
+            [
+              -100.3135322,
+              25.7977636
+            ],
+            [
+              -100.3134143,
+              25.7982505
+            ],
+            [
+              -100.3141827,
+              25.7983603
+            ],
+            [
+              -100.3142681,
+              25.7978698
+            ]
+          ]
+        ]
+      },
+      "id": "way/1316485378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1142924786",
+        "name": "S-Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2844379,
+          25.6356991
+        ]
+      },
+      "id": "node/1142924786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1668150788",
+        "name": "Smart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2566807,
+          25.7756976
+        ]
+      },
+      "id": "node/1668150788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4351441827",
+        "name": "S-mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2355214,
+          25.785462
+        ]
+      },
+      "id": "node/4351441827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6584689129",
+        "leisure": "fitness_centre",
+        "name": "Smart Fit",
+        "sport": "exercise;fitness;yoga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4531035,
+          25.6890985
+        ]
+      },
+      "id": "node/6584689129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7392750727",
+        "brand": "Smart Fit",
+        "brand:wikidata": "Q30930959",
+        "brand:wikipedia": "pt:Smart Fit",
+        "leisure": "fitness_centre",
+        "name": "Smart Fit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3684187,
+          25.7262108
+        ]
+      },
+      "id": "node/7392750727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8040402278",
+        "brand": "Smart Fit",
+        "brand:wikidata": "Q30930959",
+        "brand:wikipedia": "pt:Smart Fit",
+        "leisure": "fitness_centre",
+        "name": "Smart Fit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.271468,
+          25.7689791
+        ]
+      },
+      "id": "node/8040402278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8454668721",
+        "brand": "S-Mart",
+        "brand:wikidata": "Q7387069",
+        "name": "S-Mart",
+        "name:es": "S-MART Villa Juárez",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.092438,
+          25.6405472
+        ]
+      },
+      "id": "node/8454668721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9569477236",
+        "addr:city": "Monterrey",
+        "addr:housenumber": "2420",
+        "addr:postcode": "64010",
+        "addr:street": "Calle Carlos Salazar",
+        "air_conditioning": "yes",
+        "email": "reservaciones@smarthotel.com.mx",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Smart Hotel",
+        "phone": "+52 81 2676-0305",
+        "rooms": "20",
+        "smoking": "no",
+        "stars": "2.5",
+        "tourism": "hotel",
+        "website": "https://www.smarthotel.com.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2906771,
+          25.6796068
+        ]
+      },
+      "id": "node/9569477236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9698515879",
+        "brand": "Smart Fit",
+        "brand:wikidata": "Q30930959",
+        "leisure": "fitness_centre",
+        "name": "Smart Fit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3307422,
+          25.7934739
+        ]
+      },
+      "id": "node/9698515879"
+    }
+  ]
+}
